@@ -1,0 +1,6 @@
+{
+  "name": "Aura Commerce - Modern Shop & Checkout",
+  "description": "High-performance store with rich catalog, checkout, order persistence, Mailgun confirmation emails, and Google authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
